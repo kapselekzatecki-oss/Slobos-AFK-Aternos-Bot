@@ -1,26 +1,26 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": {AFKKK
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "NieMaAntyCheat.aternos.me",
+    "port": NieMaAntyCheat.aternos.me,
+    "version": 1.21.11,
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 1000,
     "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
