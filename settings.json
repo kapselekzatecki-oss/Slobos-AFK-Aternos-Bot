@@ -7,9 +7,9 @@
   },
   "server": {
     "ip": "NieMaAntyCheat.aternos.me",
-    "port": NieMaAntyCheat.aternos.me,
+    "port": 37028,
     "version": 1.21.11,
-    "try-creative": false
+    "try-creative": enebled
   },
   "position": {
     "enabled": true,
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1000,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
